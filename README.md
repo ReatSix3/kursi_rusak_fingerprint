@@ -4,11 +4,11 @@ OmahTI Internship's Project
 Intro tim:
 Nama Anggota & Peran:
 
-Project Manager: 
+>Project Manager: 
 - Daffa Aryza Pasya
-Project Officer:
+>Project Officer:
 - Amalia Muti’ah Khairunnisa
-Anggota:
+>Anggota:
 - Shadiq Arif Aryasatya
 - Chelsea Natasja Jesslyne Sembiring
 - Iffa Hesti Adliik Putri
